@@ -21,7 +21,7 @@ https://www.python.org/
 3) Run the file
 
 
-##ToDo
+## ToDo
 * Fix Amazon/Walmart product price scraping which are displayed in a range form.
 
 ## Troubleshooting
